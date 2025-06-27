@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.szycic</groupId>
+    <artifactId>sc-faktury</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>SC Faktury</name>
+    <description>Prosty program do wystawiania faktur</description>
+    <url>https://github.com/szycic/sc-faktury</url>
+
+    <developers>
+        <developer>
+            <id>szycic</id>
+            <name>Szymon Cichy</name>
+            <email>dev@szycic.com</email>
+            <url>https://github.com/szycic</url>
+            <timezone>Europe/Warsaw</timezone>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://github.com/szycic/sc-faktury/blob/main/LICENSE</url>
+            <distribution>repo</distribution>
+            <comments>Open source license</comments>
+        </license>
+    </licenses>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

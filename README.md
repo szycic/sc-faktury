@@ -1,1 +1,1 @@
-# sc-faktury
+# SC Faktury
