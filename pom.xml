@@ -97,7 +97,7 @@
                 <executions>
                     <execution>
                         <id>surefire-report</id>
-                        <phase>test</phase>
+                        <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
