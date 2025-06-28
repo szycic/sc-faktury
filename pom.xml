@@ -11,6 +11,7 @@
     <name>SC Faktury</name>
     <description>Prosty program do wystawiania faktur</description>
     <url>https://github.com/szycic/sc-faktury</url>
+    <inceptionYear>2025</inceptionYear>
 
     <developers>
         <developer>
